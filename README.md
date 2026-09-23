@@ -1,12 +1,21 @@
-<!-- Título / Title -->
+
+<!-- ==================== HEADER ==================== -->
+
 <div align="center">
-  <h1>Hello World! 👋</h1>
-  <h3>Olá, eu sou a Anna Lívia! | Hi, I'm Anna Lívia!</h3>
+
+# Hello World! 👋
+
+### Olá, eu sou a Anna Lívia! | Hi, I'm Anna Lívia!
+
+**Análise e Desenvolvimento de Sistemas | Systems Analysis and Development**
+
+📍 Brasil | Brazil
+
 </div>
 
 ---
 
-<!-- Apresentação / Introduction -->
+<!-- ==================== ABOUT ME ==================== -->
 
 ## 👩‍💻 Sobre mim | About Me
 
@@ -32,10 +41,10 @@ Hello! I'm Anna Lívia, a **Systems Analysis and Development** student at the Fe
 
 ---
 
-<!-- Mais informações / More information -->
+<!-- ==================== MORE ABOUT ME ==================== -->
 
 <details>
-  <summary>✨ Mais sobre mim | More About Me</summary>
+  <summary><b>✨ Mais sobre mim | More About Me</b></summary>
 
 ### 🇧🇷 Português
 
@@ -53,81 +62,102 @@ I currently combine my professional experience with my technology studies, apply
 
 ---
 
-<!-- Contatos / Contact -->
+<!-- ==================== TECH STACK ==================== -->
 
-## 📫 Contato | Connect With Me
+## 💻 Tecnologias e Ferramentas | Tech Stack
 
+### Linguagens de Programação | Programming Languages
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](COLOQUE_SEU_LINK_AQUI)
+<p>
+  <img alt="C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  &nbsp;
+  <img alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+</p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/annaliviacamp?stkn=MXg1Yjg4YTZleTVlYw==)
+### Desenvolvimento Web | Web Development
 
----
+<p>
+  <img alt="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  &nbsp;
+  <img alt="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  &nbsp;
+  <img alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+</p>
 
-<!-- Habilidades / Skills -->
+### Banco de Dados | Databases
 
-## 🔥 Habilidades | Skills
+<p>
+  <img alt="SQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</p>
 
-### 💻 Linguagens de Programação | Programming Languages
+### Ferramentas | Tools
 
-<div>
-  <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-</div>
-
-### 🌐 Desenvolvimento Web | Web Development
-
-<div>
-  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-</div>
-
-### 🗄️ Banco de Dados | Databases
-
-<div>
-  <img align="center" alt="SQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-</div>
-
-### 🛠️ Ferramentas e Tecnologias | Tools & Technologies
-
-<div>
-  <img align="center" alt="VS Code" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Postman" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
-</div>
+<p>
+  <img alt="VS Code" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  &nbsp;
+  <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  &nbsp;
+  <img alt="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  &nbsp;
+  <img alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  &nbsp;
+  <img alt="Postman" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg">
+</p>
 
 ---
 
-<!-- Projetos / Projects -->
+<!-- ==================== PROJECTS ==================== -->
 
 ## 📂 Projetos | Projects
 
-🇧🇷 Aqui você encontrará projetos acadêmicos e pessoais desenvolvidos durante minha jornada em tecnologia.
+### 🇧🇷 Português
 
-🇺🇸 Here you will find academic and personal projects developed throughout my journey in technology.
+Aqui você encontrará projetos acadêmicos e pessoais desenvolvidos durante minha jornada em tecnologia.
 
+### 🇺🇸 English
 
+Here you will find academic and personal projects developed throughout my journey in technology.
+
+<!-- Adicione seus projetos aqui. -->
+<!-- Add your projects here. -->
 
 ---
 
-<!-- Estatísticas / GitHub Stats -->
+<!-- ==================== SPOTIFY ==================== -->
 
-## 📊 Estatísticas | GitHub Stats
-
-
+## 🎧 O que estou ouvindo | Currently Listening
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnnaLiviaCampos&show_icons=true&theme=gotham)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaLiviaCampos&layout=compact&theme=gotham)
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jcythqde6wkljfbt2oe5rhgqa4&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&mode=light&bar_color=bd4c83&bar_color_cover=false"
+    alt="Spotify GitHub Profile"
+  />
+</a>
 
 </div>
 
 ---
+
+<!-- ==================== CONTACT ==================== -->
+
+## 📫 Contato | Connect With Me
+
+<div align="center">
+
+<a href="https://www.instagram.com/annaliviacamp/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
+
+<!-- Adicione seu LinkedIn aqui. -->
+<!-- Add your LinkedIn profile here. -->
+
+</div>
+
+---
+
+<!-- ==================== FOOTER ==================== -->
 
 <div align="center">
 
