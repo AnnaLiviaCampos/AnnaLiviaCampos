@@ -2,8 +2,14 @@
 <!-- ==================== HEADER ==================== -->
 
 <div align="center">
+<img
+    src="assets/banner%20github.jpg"
+    alt="Banner Anna Lívia"
+    width="100%"
+  />
 
-# Hello World! 👋
+
+# 🌸 Hello World! 🌸
 
 ### Olá, eu sou a Anna Lívia! | Hi, I'm Anna Lívia!
 
